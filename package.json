@@ -19,7 +19,8 @@
     "hubot-scripts": "^2.5.16",
     "hubot": "^2.10.0",
     "hubot-slack": "^3.2.1",
-    "hubot-groupme": "^1.0.0"
+    "hubot-groupme": "^1.0.0",
+    "hubot-plusplus": "1.0.x"
   },
   "engines": {
     "node": "0.10.x"
